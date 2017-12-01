@@ -3,3 +3,4 @@
 - Gallons to liters
 - Hours to Minutes
 - Feet to Inches
+- Degrees to Radians
